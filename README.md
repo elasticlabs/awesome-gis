@@ -36,51 +36,48 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 
 
 ## Geographic Information System Software
-### Free and Open Source (FOSS)
-- [QGIS](http://qgis.org/en/site/) :star2: - A free and open source GIS.
-- [GeoDa](http://geodacenter.github.io/) - A free and open source software tool that serves as an introduction to spatial data analysis.
-- [GISInternals](http://www.gisinternals.com/) - Povides daily build packages and software development kits for the GDAL and MapServer
-- [GRASS GIS](https://grass.osgeo.org/) - A free and open source GIS software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
-- [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable GIS.
-- [SAGA](http://www.saga-gis.org/en/index.html) - Open source system for automated geoscientific analyses.
-- [uDig](http://udig.refractions.net/) - An open source (EPL and BSD) desktop application framework, built with Eclipse Rich Client (RCP) technology.
+**Free and Open Source (FOSS)**
+    - [QGIS](http://qgis.org/en/site/) :star2: - A free and open source GIS.
+    - [GeoDa](http://geodacenter.github.io/) - A free and open source software tool that serves as an introduction to spatial data analysis.
+    - [GISInternals](http://www.gisinternals.com/) - Povides daily build packages and software development kits for the GDAL and MapServer
+    - [GRASS GIS](https://grass.osgeo.org/) - A free and open source GIS software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
+    - [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable GIS.
+    - [uDig](http://udig.refractions.net/) - An open source (EPL and BSD) desktop application framework, built with Eclipse Rich Client (RCP) technology.
 
-### Commercial
-- [ArcGIS Desktop](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/overview): Extendable desktop suite to manage, visualize and analyze GIS data in 2D and 3D, including image processing. Includes ArcGIS Pro, ArcMap, ArcCatalog, and ArcGIS Online.
-- [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - An easy-to-use, robust, and genuinely affordable GIS application that combines a wide array of spatial data processing tools with access to an unparalleled variety of data formats.
+**Commercial**
+    - [ArcGIS Desktop](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/overview): Extendable desktop suite to manage, visualize and analyze GIS data in 2D and 3D, including image processing. Includes ArcGIS Pro, ArcMap, ArcCatalog, and ArcGIS Online.
+    - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - An easy-to-use, robust, and genuinely affordable GIS application that combines a wide array of spatial data processing tools with access to an unparalleled variety of data formats.
 
 ## Web Map Servers
-### Free and Open Source (FOSS)
-- [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
-- [QGIS Server](https://docs.qgis.org/1.8/en/docs/user_manual/working_with_ogc/ogc_server_support.html) - a FastCGI/CGI application written in C++ that works together with a webserver.
-- [deegree](http://www.deegree.org/) - An open source software for spatial data infrastructures and the geospatial web
-- [Google Earth Enterprise](https://github.com/google/earthenterprise) - the open source release of Google Earth Enterprise, a geospatial application which provides the ability to build and host custom 3D globes and 2D maps.
-- [GeoNode](http://geonode.org/) - Open Source Geospatial Content Management System.
-- [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
-- [GeoWebCache](https://www.geowebcache.org/) - A java web application used to cache map tiles coming from a variety of sources such as OGC WMS in order to accelerate and optimize map image delivery.
-- [Mapnik](http://mapnik.org/) - An open source mapping toolkit written in C++ for desktop-based and server-based map rendering 
-- [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK.
-- [OpenTileServer](https://opentileserver.org/) - This script is for building a basic tile server with OpenStreetMap data.
+**Free and Open Source (FOSS)**
+    - [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
+    - [QGIS Server](https://docs.qgis.org/1.8/en/docs/user_manual/working_with_ogc/ogc_server_support.html) - a FastCGI/CGI application written in C++ that works together with a webserver.
+    - [deegree](http://www.deegree.org/) - An open source software for spatial data infrastructures and the geospatial web
+    - [Google Earth Enterprise](https://github.com/google/earthenterprise) - the open source release of Google Earth Enterprise, a geospatial application which provides the ability to build and host custom 3D globes and 2D maps.
+    - [GeoNode](http://geonode.org/) - Open Source Geospatial Content Management System.
+    - [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
+    - [GeoWebCache](https://www.geowebcache.org/) - A java web application used to cache map tiles coming from a variety of sources such as OGC WMS in order to accelerate and optimize map image delivery.
+    - [Mapnik](http://mapnik.org/) - An open source mapping toolkit written in C++ for desktop-based and server-based map rendering 
+    - [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK.
+    
+**Commercial**
+    - [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application.
+    - [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
 
-### Commercial
-- [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application.
-- [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
+**Cloud Services**
+    - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
+    - [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
+    - [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
+    - [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
+    - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
 
-## Cloud Services
-- [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
-- [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
-- [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
-- [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
-- [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
-
-## Spatial Database
+## Spatial Databases
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
 - [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/) - Lightweight SQL library to support fully spatially capability
 - [MBtiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing tiled map data in SQLite databases
 - [GeoMesa](http://www.geomesa.org/) - An open-source, distributed, spatio-temporal database built on a number of distributed cloud data storage systems, including Accumulo, HBase, Cassandra, and Kafka.
 
-
-## Front-end frameworks and librairies
+## Javascript frontend frameworks and librairies
 ### Map display libraries
 - [Leaflet](http://leafletjs.com/) - Open source javaScript library for mobile-friendly interactive maps
 - [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - A JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
@@ -91,11 +88,15 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A library for embedding interactive, customizable vector maps into native applications on multiple platforms
 - [tangram-es](https://github.com/tangrams/tangram-es) - A C++ library for rendering 2D and 3D maps from vector data using OpenGL ES, and mainly focused on mobile and embedded devices.
 - [Mapnik](http://mapnik.org/) - C++ library for map rendering.
+- [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
+- [GeoExt](https://geoext.github.io/geoext3/) - Open Source and enables building desktop-like GIS applications through the web. It is a JavaScript framework that combines the GIS functionality of OpenLayers with the user interface of the ExtJS library provided by Sencha.
+- [Windshaft](https://github.com/CartoDB/Windshaft) - A Node.js map tile library for PostGIS and torque.js, with CartoCSS styling.
 
-### 3D Specialized
-- [three.js](http://threejs.org/) - A JavaScript 3D library which makes WebGL simpler
-- [CesiumJS](https://cesiumjs.org/) - An open source JavaScript library for world-class 3D globes and maps
-- [three-geo](https://github.com/w3reality/three-geo) - Is a three.js based geographic visualization library
+**3D Specialized**
+    - [three.js](http://threejs.org/) - A JavaScript 3D library which makes WebGL simpler
+    - [CesiumJS](https://cesiumjs.org/) - An open source JavaScript library for world-class 3D globes and maps
+    - [three-geo](https://github.com/w3reality/three-geo) - Is a three.js based geographic visualization library
+    - [iTowns](http://www.itowns-project.org/) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data. It can connect to WMS/WMTS/TMS servers including elevation data and load many different data formats (3dTiles, gpx, KML and much much more).
 
 ### Visual data analysis
 - [D3.js](https://d3js.org/) - A JavaScript library for manipulating documents based on data
@@ -106,11 +107,10 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 - [CMV](https://cmv.io/) - The Configurable Map Viewer (CMV) is an open source mapping framework that works with ESRI JavaScript API, ArcGIS Server, ArcGIS Online, and more.
 - [SuperMap iClient JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap.
 - [d3-geomap](https://d3-geomap.github.io/) - A library for creating geographical maps based on D3.js.
-
-
 - [GeoTrellis](https://github.com/locationtech/geotrellis) - A geographic data processing engine for high performance applications that uses Spark to work with raster data. 
 - [Baremaps](https://www.baremaps.com/) - An open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java.
-
+- [kepler.gl](https://uber.github.io/kepler.gl/#/) - kepler.gl is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets.
+- [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
 
 ## Language based Geospatial Libraries
 ### C++
@@ -136,22 +136,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 - [pyWPS](http://pywps.org/) - An implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python. It enables integration, publishing and execution of Python processes via the WPS standard.
 - [pyCSW](http://pycsw.org/) - Fully implements the OpenGIS Catalogue Service Implementation Specification (Catalogue Service for the Web). Initial development started in 2010 (more formally announced in 2011). The project is certified OGC Compliant, and is an OGC Reference Implementation.
 - [Peartree](https://github.com/kuanb/peartree) - Peartree: A library for converting transit data into a directed graph for network analysis.
-
-### JavaScript
-- [OpenLayers](http://openlayers.org/)  - Open source AJAX library.
-- [Leaflet](http://leafletjs.com/)  - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
-- [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br)  - Google Maps API for JavaScript.
-- [ArcGIS API](https://developers.arcgis.com/javascript/)  - ArcGIS API for JavaScript.
-- [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
-- [GeoExt](https://geoext.github.io/geoext3/) - Open Source and enables building desktop-like GIS applications through the web. It is a JavaScript framework that combines the GIS functionality of OpenLayers with the user interface of the ExtJS library provided by Sencha.
-- [iTowns](http://www.itowns-project.org/) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data. It can connect to WMS/WMTS/TMS servers including elevation data and load many different data formats (3dTiles, gpx, KML and much much more).
-- [mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) - Draw tools for mapbox-gl-js.
-- [CesiumJS](https://github.com/AnalyticalGraphicsInc/cesium) - An open-source JavaScript library for world-class 3D globes and maps.
-- [Turf.js](http://turfjs.org/)  - Advanced geospatial analysis for browsers and node.
-- [Windshaft](https://github.com/CartoDB/Windshaft) - A Node.js map tile library for PostGIS and torque.js, with CartoCSS styling.
-- [kepler.gl](https://uber.github.io/kepler.gl/#/) - kepler.gl is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets.
-- [Leaflet TimeDimension](https://github.com/socib/Leaflet.TimeDimension) - Add time dimension capabilities on a Leaflet map.
-- [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
 
 
 ## Open Standards and communities
