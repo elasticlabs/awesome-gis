@@ -12,7 +12,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 
 
 <p>
-  <img src="https://raw.githubusercontent.com/elasticlabs/awesome-gis/main/header.png" alt="Awesome GIS" width="300px" align="enter">
+  <img src="https://raw.githubusercontent.com/elasticlabs/awesome-gis/main/header.png" alt="Awesome GIS" width="300px">
 </p>
 
 
