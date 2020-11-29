@@ -7,14 +7,14 @@
 
 > A collection of awesome resources on Geospatial data and software, including cartographic / geoanalysis / developer tools, data, online tutorials & courses, and more.
 
+**Please contribute to make this guide better!** Please follow the [Contributing Guidelines](https://github.com/elasticlabs/awesome-gis/blob/master/ContributingGuidelines.md). 
+Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome earth Observation Code](https://github.com/acgeospatial/awesome-earthobservation-code)
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/elasticlabs/awesome-gis/main/header.png" alt="Awesome GIS" width="300px" align="enter">
 </p>
 
-
-
-**Please contribute to make this guide better!** Please follow the [Contributing Guidelines](https://github.com/elasticlabs/awesome-gis/blob/master/ContributingGuidelines.md). 
-Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome earth Observation Code](https://github.com/acgeospatial/awesome-earthobservation-code)
 
 **Table Of Contents:**
   - [Geographic Information System Software](#geographic-information-system-software)
