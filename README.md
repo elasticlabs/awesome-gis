@@ -11,7 +11,7 @@
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome earth Observation Code](https://github.com/acgeospatial/awesome-earthobservation-code)
 
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/elasticlabs/awesome-gis/main/header.png" alt="Awesome GIS" width="300px" align="enter">
 </p>
 
