@@ -13,24 +13,19 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 **Table Of Contents:**
   - [Geographic Information System Software](#geographic-information-system-software)
   - [Web Map Servers](#web-map-servers)
-  - [Front-end Framework](#front-end-framework)
-  - [Spatial Database](#spatial-database)
-  - [Geospatial Library](#geospatial-library)
+  - [Spatial Databases](#spatial-databases)
+  - [Javascript frontend frameworks and librairies](#javascript-frontend-frameworks-and-librairies)
+    - [Map display libraries](#map-display-libraries)
+    - [Visual data analysis](#visual-data-analysis)
+  - [Language based Geospatial Libraries](#language-based-geospatial-libraries)
+    - [C++](#c++)
     - [Python](#python)
-    - [JavaScript](#javascript)
-  - [Open Standards](#open-standards)
-  - [Cloud Service](#cloud-service)
-    - [DaaS](#daas)
-    - [SaaS](#saas)
-  - [Data](#data)
-  - [Awesome-Awesome](#awesome-awesome)
-  - [Amazing Map Sites](#amazing-map-sites)
-  - [Other](#other)
-    - [Data Formats](#data-formats)
-    - [Design Materials](#design-materials)
+  - [Open Forums and communities](#open-forums-and-communities)
+  - [Learning resources and platforms](#learning-resources-and-platforms)
+    - [Data formats](#data-formats)
     - [MOOC](#mooc)
-  - [Reference](#reference)
-
+  - [Data](#data)
+  - [Awesome-Awesomeness](#awesome-awesomeness)
 
 ----
 
@@ -138,8 +133,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 - [Peartree](https://github.com/kuanb/peartree) - Peartree: A library for converting transit data into a directed graph for network analysis.
 
 
-## Open Standards and communities
-### Forums and communities
+## Open Forums and communities
 - **Conference**
     - [Esri International User Conference](http://www.esri.com/events/user-conference)
     - [Esri Developer Summit](http://www.esri.com/events/devsummit)
@@ -173,15 +167,16 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
     - [Web Map Tile Service](http://www.opengeospatial.org/standards/wmts)
     - [Web Processing Service](http://www.opengeospatial.org/standards/wps)
 
-- **Learning platforms (MOOC)**
-    - [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
-    - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
-    - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
+## Learning resources and platforms
+### Data formats
+- [Vector Formats](http://www.gdal.org/ogr_formats.html) -  GDAL vector formats: ESRI Shapefile, ESRI ArcSDE, ESRI FileGDB, MapInfo, GML, KML, PostGIS, Oracle Spatial, ...
+- [Raster Formats](http://www.gdal.org/formats_list.html) - GDAL raster formats: GeoTIFF, Erdas Imagine, ECW, MrSID, JPEG2000, DTED, NITF, ...
+### MOOC
+- [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
+- [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
+- [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
 
 ## Data
-**Data formats**
-    - [Vector Formats](http://www.gdal.org/ogr_formats.html) -  GDAL vector formats: ESRI Shapefile, ESRI ArcSDE, ESRI FileGDB, MapInfo, GML, KML, PostGIS, Oracle Spatial, ...
-    - [Raster Formats](http://www.gdal.org/formats_list.html) - GDAL raster formats: GeoTIFF, Erdas Imagine, ECW, MrSID, JPEG2000, DTED, NITF, ...
 **Data download srevices**
     - [Open Street Map](https://www.openstreetmap.org/) - A map of the world, created by people like you and free to use under an open license.
     - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
@@ -193,7 +188,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 **Design Materials**
     - [mapskin](http://mapsk.in/) - a collection of scalable vector icons for geospatial.
 
-## Awesome-Awesome
+## Awesome-Awesomeness
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - awesome implementations of the Mapbox Vector Tile specification.
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite imagery datasets with annotations for computer vision and deep learning.
 - [awesome-earthobservation-code](https://github.com/elasticlabs/awesome-earthobservation-code) - curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
