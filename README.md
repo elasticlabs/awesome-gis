@@ -49,7 +49,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 - [ArcGIS Desktop](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/overview): Extendable desktop suite to manage, visualize and analyze GIS data in 2D and 3D, including image processing. Includes ArcGIS Pro, ArcMap, ArcCatalog, and ArcGIS Online.
 - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - An easy-to-use, robust, and genuinely affordable GIS application that combines a wide array of spatial data processing tools with access to an unparalleled variety of data formats.
 
-
 ## Web Map Servers
 ### Free and Open Source (FOSS)
 - [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
@@ -67,8 +66,21 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 - [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application.
 - [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
 
+## Cloud Services
+- [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
+- [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
+- [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
+- [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
+- [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
 
-## Front-end Framework
+## Spatial Database
+- [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
+- [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/) - Lightweight SQL library to support fully spatially capability
+- [MBtiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing tiled map data in SQLite databases
+- [GeoMesa](http://www.geomesa.org/) - An open-source, distributed, spatio-temporal database built on a number of distributed cloud data storage systems, including Accumulo, HBase, Cassandra, and Kafka.
+
+
+## Front-end frameworks and librairies
 ### Map display libraries
 - [Leaflet](http://leafletjs.com/) - Open source javaScript library for mobile-friendly interactive maps
 - [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - A JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
@@ -95,15 +107,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 - [SuperMap iClient JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap.
 - [d3-geomap](https://d3-geomap.github.io/) - A library for creating geographical maps based on D3.js.
 
-## Spatial Database
-- [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
-- [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/) - Lightweight SQL library to support fully spatially capability
-- [MBtiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing tiled map data in SQLite databases
-- [GeoMesa](http://www.geomesa.org/) - An open-source, distributed, spatio-temporal database built on a number of distributed cloud data storage systems, including Accumulo, HBase, Cassandra, and Kafka.
 
-
-
-- [geomajas](http://www.geomajas.org/) - An open source platform to create Web GIS applications 
 - [GeoTrellis](https://github.com/locationtech/geotrellis) - A geographic data processing engine for high performance applications that uses Spark to work with raster data. 
 - [Baremaps](https://www.baremaps.com/) - An open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java.
 
@@ -137,82 +141,21 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 - [OpenLayers](http://openlayers.org/)  - Open source AJAX library.
 - [Leaflet](http://leafletjs.com/)  - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
 - [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br)  - Google Maps API for JavaScript.
-- [gmaps.js](https://github.com/hpneo/gmaps) - gmaps.js allows you to use the potential of Google Maps in a simple way. 
-- [Bing Maps V8 Web Control](https://msdn.microsoft.com/en-us/library/mt712542.aspx) - Bing Maps API for JavaScript.
-- [Bing Maps V8 Interactive SDK](https://www.bing.com/api/maps/sdkrelease/mapcontrol/isdk#loadMapWithOptions+JS) - An interactive code sample gallery for Bing Maps V8.
-- [Bing Maps V8 Code Samples](https://github.com/Microsoft/BingMapsV8CodeSamples) - A large collection of open source code samples for Bing Maps V8.
-- [Bing Maps V8 TypeScript Definitions ](https://github.com/Microsoft/Bing-Maps-V8-TypeScript-Definitions) - TypeScript Definitions for the Bing Maps V8 web control.
 - [ArcGIS API](https://developers.arcgis.com/javascript/)  - ArcGIS API for JavaScript.
-- [SuperMap iClient for JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supportted by SuperMap.
 - [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
-- [react-map-gl](https://github.com/uber/react-map-gl) - React friendly API wrapper around MapboxGL JS.
-- [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
-- [Vue2Leaflet](https://github.com/KoRiGaN/Vue2Leaflet) - Vue 2 components for Leaflet maps.
-- [Heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) - A heatmap implementation for Javascript.
-- [Thermo.js](https://github.com/dazuma/thermo.js) - Another heatmap implementation for Javascript.
-- [Heatcanvas.js](https://github.com/sunng87/heatcanvas) - Yet another heatmap implementation for Javascript.
 - [GeoExt](https://geoext.github.io/geoext3/) - Open Source and enables building desktop-like GIS applications through the web. It is a JavaScript framework that combines the GIS functionality of OpenLayers with the user interface of the ExtJS library provided by Sencha.
 - [iTowns](http://www.itowns-project.org/) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data. It can connect to WMS/WMTS/TMS servers including elevation data and load many different data formats (3dTiles, gpx, KML and much much more).
-- [proj4js](https://github.com/proj4js/proj4js) - JavaScript library to transform coordinates from one coordinate system to another, including datum transformations.
 - [mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) - Draw tools for mapbox-gl-js.
-- [mapboxgl-powerbi](https://github.com/mapbox/mapboxgl-powerbi) - Mapbox GL PowerBI custom visual.
-- [NASA WebWorldWind](https://github.com/NASAWorldWind/WebWorldWind) - The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.
 - [CesiumJS](https://github.com/AnalyticalGraphicsInc/cesium) - An open-source JavaScript library for world-class 3D globes and maps.
-- [LuciadRIA](http://www.luciad.com/solutions/luciadria) - A JavaScript library for 3D globes and maps, with support for military symbology and desktop-like performance
-- [geotiff.js](https://github.com/geotiffjs/geotiff.js) - geotiff.js is a small library to parse TIFF files for visualization or analysis.
-- [geoblaze](https://github.com/GeoTIFF/geoblaze) - Geoblaze is a geospatial raster processing engine written purely in javascript.
 - [Turf.js](http://turfjs.org/)  - Advanced geospatial analysis for browsers and node.
-- [JSTS](https://github.com/bjornharrtell/jsts) - Port of the Java JTS library.
-- [Spatial](https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
-- [PGRestAPI](https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities.
-- [Supercluster](https://github.com/mapbox/supercluster) - A crazy fast geospatial point clustering library for browsers and Node.
-- [SQLite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
 - [Windshaft](https://github.com/CartoDB/Windshaft) - A Node.js map tile library for PostGIS and torque.js, with CartoCSS styling.
 - [kepler.gl](https://uber.github.io/kepler.gl/#/) - kepler.gl is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets.
 - [Leaflet TimeDimension](https://github.com/socib/Leaflet.TimeDimension) - Add time dimension capabilities on a Leaflet map.
 - [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
 
 
-## Open Standards
-- [3D Tiles](http://www.opengeospatial.org/standards/3DTiles)
-- [Cat: ebRIM App Profile: Earth Observation Products](http://www.opengeospatial.org/standards/cat2eoext4ebrim)
-- [Catalogue Service](http://www.opengeospatial.org/standards/cat)
-- [CDB](http://www.opengeospatial.org/standards/cdb)
-- [CityGML](http://www.opengeospatial.org/standards/citygml)
-- [Filter Encoding](http://www.opengeospatial.org/standards/filter)
-- [GML in JPEG 2000](http://www.opengeospatial.org/standards/gmljp2)
-- [GeoAPI](http://www.opengeospatial.org/standards/geoapi)
-- [GeoPackage](http://www.opengeospatial.org/standards/geopackage)
-- [Geography Markup Language](http://www.opengeospatial.org/standards/gml)
-- [GeoRSS](http://www.opengeospatial.org/standards/georss)
-- [KML](http://www.opengeospatial.org/standards/kml)
-- [Mapbox Vector Tile](https://github.com/mapbox/vector-tile-spec)
-- [NetCDF](http://www.opengeospatial.org/standards/netcdf)
-- [OWS Context](http://www.opengeospatial.org/standards/owc)
-- [Styled Layer Descriptor](http://www.opengeospatial.org/standards/sld)
-- [Symbology Encoding](http://www.opengeospatial.org/standards/se)
-- [Web Coverage Service](http://www.opengeospatial.org/standards/wcs)
-- [Web Feature Service](http://www.opengeospatial.org/standards/wfs)
-- [Web Map Service](http://www.opengeospatial.org/standards/wms)
-- [Web Map Tile Service](http://www.opengeospatial.org/standards/wmts)
-- [Web Processing Service](http://www.opengeospatial.org/standards/wps)
-
-
-## Cloud Services
-### SaaS
-- [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
-- [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
-- [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
-- [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
-- [sSamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
-- [cCtytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
-- [Worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
-- [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
-- [Magrit](http://magrit.cnrs.fr/) - Thematic cartography, free and open-source.
-- [Unearth](https://unearthlabs.com/) - A simple, cloud-based GIS mapping platform designed for data and workflow management.
-
-
-## Conference & Communities
+## Open Standards and communities
+### Forums and communities
 - **Conference**
     - [Esri International User Conference](http://www.esri.com/events/user-conference)
     - [Esri Developer Summit](http://www.esri.com/events/devsummit)
@@ -222,32 +165,51 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 - **Communities**
     - [OGC](http://www.opengeospatial.org/) - an international not for profit organization committed to making quality open standards for the global geospatial community
 
+- **Open Standards**
+    - [3D Tiles](http://www.opengeospatial.org/standards/3DTiles)
+    - [Cat: ebRIM App Profile: Earth Observation Products](http://www.opengeospatial.org/standards/cat2eoext4ebrim)
+    - [Catalogue Service](http://www.opengeospatial.org/standards/cat)
+    - [CDB](http://www.opengeospatial.org/standards/cdb)
+    - [CityGML](http://www.opengeospatial.org/standards/citygml)
+    - [Filter Encoding](http://www.opengeospatial.org/standards/filter)
+    - [GML in JPEG 2000](http://www.opengeospatial.org/standards/gmljp2)
+    - [GeoAPI](http://www.opengeospatial.org/standards/geoapi)
+    - [GeoPackage](http://www.opengeospatial.org/standards/geopackage)
+    - [Geography Markup Language](http://www.opengeospatial.org/standards/gml)
+    - [GeoRSS](http://www.opengeospatial.org/standards/georss)
+    - [KML](http://www.opengeospatial.org/standards/kml)
+    - [Mapbox Vector Tile](https://github.com/mapbox/vector-tile-spec)
+    - [NetCDF](http://www.opengeospatial.org/standards/netcdf)
+    - [OWS Context](http://www.opengeospatial.org/standards/owc)
+    - [Styled Layer Descriptor](http://www.opengeospatial.org/standards/sld)
+    - [Symbology Encoding](http://www.opengeospatial.org/standards/se)
+    - [Web Coverage Service](http://www.opengeospatial.org/standards/wcs)
+    - [Web Feature Service](http://www.opengeospatial.org/standards/wfs)
+    - [Web Map Service](http://www.opengeospatial.org/standards/wms)
+    - [Web Map Tile Service](http://www.opengeospatial.org/standards/wmts)
+    - [Web Processing Service](http://www.opengeospatial.org/standards/wps)
+
+- **Learning platforms (MOOC)**
+    - [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
+    - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
+    - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
 
 ## Data
-- [Open Street Map](https://www.openstreetmap.org/) - A map of the world, created by people like you and free to use under an open license.
-- [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
-- [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
-- [Geofabrik](http://download.geofabrik.de/)
-- [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
-- [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap
-- [OpenFlights: Airport and airline data](http://openflights.org/data.html)
-    
+**Data formats**
+    - [Vector Formats](http://www.gdal.org/ogr_formats.html) -  GDAL vector formats: ESRI Shapefile, ESRI ArcSDE, ESRI FileGDB, MapInfo, GML, KML, PostGIS, Oracle Spatial, ...
+    - [Raster Formats](http://www.gdal.org/formats_list.html) - GDAL raster formats: GeoTIFF, Erdas Imagine, ECW, MrSID, JPEG2000, DTED, NITF, ...
+**Data download srevices**
+    - [Open Street Map](https://www.openstreetmap.org/) - A map of the world, created by people like you and free to use under an open license.
+    - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
+    - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
+    - [Geofabrik](http://download.geofabrik.de/)
+    - [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
+    - [Metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap
+    - [OpenFlights: Airport and airline data](http://openflights.org/data.html)
+**Design Materials**
+    - [mapskin](http://mapsk.in/) - a collection of scalable vector icons for geospatial.
+
 ## Awesome-Awesome
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - awesome implementations of the Mapbox Vector Tile specification.
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite imagery datasets with annotations for computer vision and deep learning.
 - [awesome-earthobservation-code](https://github.com/elasticlabs/awesome-earthobservation-code) - curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
-
-
-## Other
-### Data Formats
-- [Vector Formats](http://www.gdal.org/ogr_formats.html) -  GDAL vector formats: ESRI Shapefile, ESRI ArcSDE, ESRI FileGDB, MapInfo, GML, KML, PostGIS, Oracle Spatial, ...
-- [Raster Formats](http://www.gdal.org/formats_list.html) - GDAL raster formats: GeoTIFF, Erdas Imagine, ECW, MrSID, JPEG2000, DTED, NITF, ...
-
-### Design Materials
-- [mapskin](http://mapsk.in/) - a collection of scalable vector icons for geospatial.
-
-### MOOC
-- [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
-- [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
-- [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
-- [地理信息系统（GIS）实验,汤国安等,南京师范大学,Nanjing Normal University](https://www.icourse163.org/course/NJNU-1206774803)
