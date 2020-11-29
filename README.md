@@ -32,16 +32,16 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 
 ## Geographic Information System Software
 **Free and Open Source (FOSS)**
-    - [QGIS](http://qgis.org/en/site/) :star2: - A free and open source GIS.
-    - [GeoDa](http://geodacenter.github.io/) - A free and open source software tool that serves as an introduction to spatial data analysis.
-    - [GISInternals](http://www.gisinternals.com/) - Povides daily build packages and software development kits for the GDAL and MapServer
-    - [GRASS GIS](https://grass.osgeo.org/) - A free and open source GIS software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
-    - [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable GIS.
-    - [uDig](http://udig.refractions.net/) - An open source (EPL and BSD) desktop application framework, built with Eclipse Rich Client (RCP) technology.
+  - [QGIS](http://qgis.org/en/site/) :star2: - A free and open source GIS.
+  - [GeoDa](http://geodacenter.github.io/) - A free and open source software tool that serves as an introduction to spatial data analysis.
+  - [GISInternals](http://www.gisinternals.com/) - Povides daily build packages and software development kits for the GDAL and MapServer
+  - [GRASS GIS](https://grass.osgeo.org/) - A free and open source GIS software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
+  - [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable GIS.
+  - [uDig](http://udig.refractions.net/) - An open source (EPL and BSD) desktop application framework, built with Eclipse Rich Client (RCP) technology.
 
 **Commercial**
-    - [ArcGIS Desktop](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/overview): Extendable desktop suite to manage, visualize and analyze GIS data in 2D and 3D, including image processing. Includes ArcGIS Pro, ArcMap, ArcCatalog, and ArcGIS Online.
-    - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - An easy-to-use, robust, and genuinely affordable GIS application that combines a wide array of spatial data processing tools with access to an unparalleled variety of data formats.
+  - [ArcGIS Desktop](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/overview): Extendable desktop suite to manage, visualize and analyze GIS data in 2D and 3D, including image processing. Includes ArcGIS Pro, ArcMap, ArcCatalog, and ArcGIS Online.
+  - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - An easy-to-use, robust, and genuinely affordable GIS application that combines a wide array of spatial data processing tools with access to an unparalleled variety of data formats.
 
 ## Web Map Servers
 **Free and Open Source (FOSS)**
