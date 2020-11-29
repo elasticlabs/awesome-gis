@@ -1,12 +1,16 @@
 # Awesome GIS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> A collection of awesome resources on Geospatial data and software, including cartographic / geoanalysis / developer tools, data, online tutorials & courses, and more.
-
 [![GitHub stars](https://img.shields.io/github/stars/elasticlabs/awesome-gis)](https://github.com/elasticlabs/awesome-gis/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/elasticlabs/awesome-gis)](https://github.com/elasticlabs/awesome-gis/network)
 ![GitHub contributors](https://img.shields.io/github/contributors/elasticlabs/awesome-gis)
 ![GitHub last commit](https://img.shields.io/github/last-commit/elasticlabs/awesome-gis)
 [![GitHub license](https://img.shields.io/github/license/elasticlabs/awesome-gis)](https://github.com/elasticlabs/awesome-gis/blob/master/LICENSE)
-![repository header](https://upload.wikimedia.org/wikipedia/commons/d/dc/GISdata_DigitalPreservation.png)
+
+> A collection of awesome resources on Geospatial data and software, including cartographic / geoanalysis / developer tools, data, online tutorials & courses, and more.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elasticlabs/awesome-gis/main/header.png" alt="Awesome GIS" width="300px" align="enter">
+</p>
+
 
 
 **Please contribute to make this guide better!** Please follow the [Contributing Guidelines](https://github.com/elasticlabs/awesome-gis/blob/master/ContributingGuidelines.md). 
