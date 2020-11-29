@@ -6,6 +6,8 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/elasticlabs/awesome-gis)
 ![GitHub last commit](https://img.shields.io/github/last-commit/elasticlabs/awesome-gis)
 [![GitHub license](https://img.shields.io/github/license/elasticlabs/awesome-gis)](https://github.com/elasticlabs/awesome-gis/blob/master/LICENSE)
+![repository header](https://upload.wikimedia.org/wikipedia/commons/d/dc/GISdata_DigitalPreservation.png)
+
 
 **Please contribute to make this guide better!** Please follow the [Contributing Guidelines](https://github.com/elasticlabs/awesome-gis/blob/master/ContributingGuidelines.md). 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome earth Observation Code](https://github.com/acgeospatial/awesome-earthobservation-code)
