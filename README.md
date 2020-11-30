@@ -47,6 +47,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 ## Data and Utilities
 | ▲ [Top](#awesome-gis) |
 | --- |
+
 **Utilities**
  - [BBox finder](http://bboxfinder.com/) - Select an area and get BBox information in vairous projections and formats.
  - [epsg.io](http://epsg.io/) - Coordinate systems worldwide
@@ -74,6 +75,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 ## Geographic Information System Software
 | ▲ [Top](#awesome-gis) |
 | --- |
+
 **Free and Open Source (FOSS)**
   - [QGIS](http://qgis.org/en/site/) ![Python](resources/icon/python.png) :star2: - A free and open source GIS.
   - [GeoDa](http://geodacenter.github.io/) ![C++](resources/icon/cplusplus.png) - A free and open source software tool that serves as an introduction to spatial data analysis.
@@ -89,6 +91,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 ## Web Map Servers
 | ▲ [Top](#awesome-gis) |
 | --- |
+
 **Free and Open Source (FOSS)**
   - [MapServer](http://www.mapserver.org/) ![C++](resources/icon/cplusplus.png) - Publishing spatial data and interactive mapping applications to the web
   - [QGIS Server](https://docs.qgis.org/1.8/en/docs/user_manual/working_with_ogc/ogc_server_support.html) ![Python](resources/icon/python.png) - a FastCGI/CGI application written in C++ that works together with a webserver.
@@ -120,6 +123,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 ## Javascript frontend frameworks and librairies
 | ▲ [Top](#awesome-gis) |
 | --- |
+
 ### Map display libraries 
 - [Leaflet](http://leafletjs.com/) ![Javascript](resources/icon/javascript.png) - Open source javaScript library for mobile-friendly interactive maps
 - [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) ![Javascript](resources/icon/javascript.png) - A JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
@@ -144,6 +148,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 ### Visual data analysis
 | ▲ [Top](#awesome-gis) |
 | --- |
+
 - [D3.js](https://d3js.org/) ![Javascript](resources/icon/javascript.png) - A JavaScript library for manipulating documents based on data
 - [Echarts](http://echarts.baidu.com/) ![Javascript](resources/icon/javascript.png) - A user-friendly data visualisation library supported by Baidu
 - [turf.js](http://turfjs.org/) ![Javascript](resources/icon/javascript.png) - Advanced geospatial analysis for browsers and node supported by Mapbox
@@ -160,6 +165,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 ## Language based Geospatial Libraries
 | ▲ [Top](#awesome-gis) |
 | --- |
+
 ### C++
 - [GEOS](https://trac.osgeo.org/geos/) ![C++](resources/icon/cplusplus.png) - GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS).
 - [GDAL](http://www.gdal.org/) ![C++](resources/icon/cplusplus.png) - Geospatial Data Abstraction Library (GDAL) is a computer library that serve as a translator library for raster and vector geospatial data formats.
@@ -187,6 +193,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 ## Open Forums and communities
 | ▲ [Top](#awesome-gis) |
 | --- |
+
 - **Conference**
   - [Esri International User Conference](http://www.esri.com/events/user-conference)
   - [Esri Developer Summit](http://www.esri.com/events/devsummit)
@@ -223,6 +230,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 ## Awesome-Awesomeness
 | ▲ [Top](#awesome-gis) |
 | --- |
+
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - awesome implementations of the Mapbox Vector Tile specification.
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite imagery datasets with annotations for computer vision and deep learning.
 - [awesome-earthobservation-code](https://github.com/elasticlabs/awesome-earthobservation-code) - curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
