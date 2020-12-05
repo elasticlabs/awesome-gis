@@ -18,6 +18,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
   - [Learning resources and platforms](#learning-resources-and-platforms)
     - [Data formats](#data-formats)
     - [MOOC](#mooc)
+    - [Jupyter based training workshops](#jupyter-based-training-workshops)
   - [Data and Utilities ](#data-and-utilities)
   - [Geographic Information System Software](#geographic-information-system-software)
   - [Web Map Servers](#web-map-servers)
@@ -39,10 +40,16 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 ### Data formats
 - [Vector Formats](http://www.gdal.org/ogr_formats.html) -  GDAL vector formats: ESRI Shapefile, ESRI ArcSDE, ESRI FileGDB, MapInfo, GML, KML, PostGIS, Oracle Spatial, ...
 - [Raster Formats](http://www.gdal.org/formats_list.html) - GDAL raster formats: GeoTIFF, Erdas Imagine, ECW, MrSID, JPEG2000, DTED, NITF, ...
+- [OGC Body of Knowledge](https://docs.opengeospatial.org/dp/19-077.html) - The OGC Body of Knowledge is a structured collection of concepts and related resources that can be found in the OGC library.
+- [GIS Data administration](http://wiki.gis.com/wiki/index.php/GIS_Data_Administration) - Data provides the resources you need to make proper business decisions. The volume of data you must sort through each day is growing exponentially. How you manage, organize, and control these data resources is critical to your success.
 ### MOOC
 - [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
 - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
 - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
+- [UCAR Comet MetEd](https://www.meted.ucar.edu/) - UCAR training consists of lessons and courses. Tons of lessons and courses on earth observation science!
+### Jupyter based training workshops
+- [Landlab introductory notebook](https://mybinder.org/v2/gh/landlab/landlab/release?filepath=notebooks/welcome.ipynb) - Introduction to basic usages of the extensive [Landlab](https://landlab.readthedocs.io/en/latest/index.html) ![Python](resources/icon/python.png) library.
+- [Whitebox tutorial notebook](https://github.com/giswqs/whitebox-python/blob/master/examples/whitebox.ipynb) - This notebook demonstrates the usage of the whitebox Python package for geospatial analysis, which is built on a stand-alone executable command-line program called WhiteboxTools.
 
 ## Data and Utilities
 | ▲ [Top](#awesome-gis) |
@@ -56,7 +63,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 **Data download services**
   - [ASTER GDEM](https://gdemdl.aster.jspacesystems.or.jp/) or [From NASA](https://search.earthdata.nasa.gov/search/) - fantastic worldwide DEM jointly built in partnership between the NASA and Japan METI.
   - [BBBike OSM Extracts](https://extract.bbbike.org/) - Extract specific areas of OSM data in common formats (Shapefile, PBF, OSM XML, GeoJSON, etc.)
-  - [NASA earthe data](https://search.earthdata.nasa.gov/search/) - A very HUGE directory of awesome geographic data. You must know by advance what you're looking at.
+  - [EOS Land Viewer](https://eos.com/lv/) - LandViewer allows the non-expert users to select a geographic area of interest for analysis, an earth observation data type, and then apply on-the-fly imagery analytics.
+  - [NASA earth data](https://search.earthdata.nasa.gov/search/) - A very HUGE directory of awesome geographic data. You must know by advance what you're looking at.
   - [GEBCO Gridded Bathymetry Data](https://www.gebco.net/data_and_products/gridded_bathymetry_data/) - The GEBCO_2020 grid is a global terrain model for ocean and land at 15 arc-second intervals. 
   - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
   - [Geofabrik](http://download.geofabrik.de/) - This server has data extracts from the OpenStreetMap project which are normally updated every day. Select your continent and then your country of interest from the list, and enjoy hight quality localized extracts for your apps!
@@ -69,6 +77,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
   - [OpenFlights: Airport and airline data](http://openflights.org/data.html) - Awesome FOSS airports and airlines database.
   - [Open Weather Map](https://openweathermap.org/api/weathermaps) - OpenWeatherMap provides many kinds of weather maps including Precipitation, Clouds, Pressure, Temperature, Wind. You can connect them to mobile and web apps.
   - [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) - The Overpass API (formerly known as OSM Server Side Scripting, or OSM3S before 2011) is a read-only API that serves up custom selected parts of the OSM map data. 
+  - [Remotepixel](https://search.remotepixel.ca/) - Free download of worldwide Landsat-8, Sentinel-2 and CBERS-4 tiles.
   - [Sentinel Hub](https://apps.sentinel-hub.com/eo-browser/) - A complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA’s archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place.
 
 ## Geographic Information System Software
@@ -171,8 +180,10 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 - [Shapely](https://github.com/Toblerity/Shapely) ![Python](resources/icon/python.png) - A library for manipulation and analysis of geometric objects in the Cartesian plane.
 - [Rasterio](https://github.com/mapbox/rasterio) ![Python](resources/icon/python.png) - A library for reads and writes geospatial raster data)
 - [GeoPandas](https://github.com/geopandas/geopandas) ![Python](resources/icon/python.png) - Python tools for geographic data
+- [Landlab](https://landlab.readthedocs.io/en/latest/index.html) ![Python](resources/icon/python.png) - Landlab is an open-source Python-language package for numerical modeling of Earth surface dynamics. Navigate [here for landlab components](https://landlab.readthedocs.io/en/master/reference/components/). 
 - [Pyproj](https://github.com/jswhit/pyproj) ![Python](resources/icon/python.png) - Python interface to PROJ4 library for cartographic transformations
 - [GeoDjango](http://geodjango.org/) ![Python](resources/icon/python.png) - Django geographic web framework.
+- [MovingPandas](https://anitagraser.github.io/movingpandas/) - MovingPandas is a Python library for handling movement data based on Pandas and GeoPandas. It provides trajectory data structures and functions for analysis and visualization.
 - [Rasterstats](https://github.com/perrygeo/python-rasterstats/) ![Python](resources/icon/python.png) - Python module for summarizing geospatial raster datasets based on vector geometries.
 - [xarray](http://xarray.pydata.org/en/stable/) ![Python](resources/icon/python.png) - xarray (formerly xray) is an open source project and Python package that aims to bring the labeled data power of pandas to the physical sciences, by providing N-dimensional variants of the core pandas data structures.
 - [Cartopy](http://scitools.org.uk/cartopy/) ![Python](resources/icon/python.png) - A library providing cartographic tools for python for plotting spatial data.
@@ -182,7 +193,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 - [pyWPS](http://pywps.org/) ![Python](resources/icon/python.png) - An implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python. It enables integration, publishing and execution of Python processes via the WPS standard.
 - [pyCSW](http://pycsw.org/) ![Python](resources/icon/python.png) - Fully implements the OpenGIS Catalogue Service Implementation Specification (Catalogue Service for the Web). Initial development started in 2010 (more formally announced in 2011). The project is certified OGC Compliant, and is an OGC Reference Implementation.
 - [Peartree](https://github.com/kuanb/peartree) ![Python](resources/icon/python.png) - Peartree: A library for converting transit data into a directed graph for network analysis.
-
+- [WhiteboxTools](https://jblindsay.github.io/wbt_book/intro.html) - WhiteboxTools is an advanced geospatial data analysis platform including more than 445 tools for processing various types of geospatial data. Many tools operate in parallel, taking full advantage of your multi-core processor. Small stand-alone application with no external dependencies, making installation as easy as downloading the 8Mb zip file and decompressing it.
+- [Whitebox python](https://github.com/giswqs/whitebox-python) - Whiteboxtools python frontend.
 
 ## Open Forums and communities
 | ▲ [Top](#awesome-gis) |
