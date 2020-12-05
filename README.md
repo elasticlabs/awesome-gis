@@ -197,28 +197,25 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
   - [OGC](http://www.opengeospatial.org/) - an international not for profit organization committed to making quality open standards for the global geospatial community
 
 - **Open Standards**
-  - [3D Tiles](http://www.opengeospatial.org/standards/3DTiles)
-  - [Cat: ebRIM App Profile: Earth Observation Products](http://www.opengeospatial.org/standards/cat2eoext4ebrim)
-  - [Catalogue Service](http://www.opengeospatial.org/standards/cat)
-  - [CDB](http://www.opengeospatial.org/standards/cdb)
-  - [CityGML](http://www.opengeospatial.org/standards/citygml)
-  - [Filter Encoding](http://www.opengeospatial.org/standards/filter)
-  - [GML in JPEG 2000](http://www.opengeospatial.org/standards/gmljp2)
-  - [GeoAPI](http://www.opengeospatial.org/standards/geoapi)
-  - [GeoPackage](http://www.opengeospatial.org/standards/geopackage)
-  - [Geography Markup Language](http://www.opengeospatial.org/standards/gml)
-  - [GeoRSS](http://www.opengeospatial.org/standards/georss)
-  - [KML](http://www.opengeospatial.org/standards/kml)
-  - [Mapbox Vector Tile](https://github.com/mapbox/vector-tile-spec)
-  - [NetCDF](http://www.opengeospatial.org/standards/netcdf)
-  - [OWS Context](http://www.opengeospatial.org/standards/owc)
-  - [Styled Layer Descriptor](http://www.opengeospatial.org/standards/sld)
-  - [Symbology Encoding](http://www.opengeospatial.org/standards/se)
-  - [Web Coverage Service](http://www.opengeospatial.org/standards/wcs)
-  - [Web Feature Service](http://www.opengeospatial.org/standards/wfs)
-  - [Web Map Service](http://www.opengeospatial.org/standards/wms)
-  - [Web Map Tile Service](http://www.opengeospatial.org/standards/wmts)
-  - [Web Processing Service](http://www.opengeospatial.org/standards/wps)
+  - [3D Tiles](http://www.opengeospatial.org/standards/3DTiles) - 3D Tiles is designed for streaming and rendering massive 3D geospatial content such as Photogrammetry, 3D Buildings, BIM/CAD, Instanced Features, and Point Clouds.
+  - [Catalogue Service](http://www.opengeospatial.org/standards/cat) - Catalogue services support the ability to publish and search collections of descriptive information (metadata) for data, services, and related information objects. 
+  - [CDB](http://www.opengeospatial.org/standards/cdb) - The CDB standard defines a standardized model and structure for a single, “versionable”, virtual representation of the earth. 
+  - [Filter Encoding](http://www.opengeospatial.org/standards/filter) - XML and KVP encoding of a system neutral syntax for expressing projections, selection and sorting clauses collectively called a query expression. 
+  - [GeoPackage](http://www.opengeospatial.org/standards/geopackage) - A GeoPackage is an open, standards-based, platform-independent, portable, self-describing, compact format for transferring geospatial information.
+  - [Geography Markup Language](http://www.opengeospatial.org/standards/gml) - The Geography Markup Language (GML) is an XML grammar for expressing geographical features.
+  - [CityGML](http://www.opengeospatial.org/standards/citygml) - CityGML is an open data model and XML-based format for the storage and exchange of virtual 3D city models. 
+  - [GeoRSS](http://www.opengeospatial.org/standards/georss) - GeoRSS is designed as a lightweight, community driven way to extend existing RSS feeds with simple geographic information. 
+  - [KML](http://www.opengeospatial.org/standards/kml) - KML is an XML language focused on geographic visualization, including annotation of maps and images. 
+  - [Mapbox Vector Tile](https://docs.mapbox.com/vector-tiles/specification/) - The Mapbox Vector Tile Specification explicitly provides information about file formats & extensions, projections and bounds, and the internal structure of vector tiles. 
+  - [NetCDF](http://www.opengeospatial.org/standards/netcdf) - netCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. 
+  - [OWS Context](http://www.opengeospatial.org/standards/owc) - This standard describes the use cases, requirements and conceptual model for the OWS Context encoding standard.
+  - [Styled Layer Descriptor](http://www.opengeospatial.org/standards/sld) - SLD addresses the need for users and software to be able to control the visual portrayal of the geospatial data. 
+  - [Symbology Encoding](http://www.opengeospatial.org/standards/se) - Symbology Encoding is an XML language for styling information that can be applied to digital Feature and Coverage data. 
+  - [Web Coverage Service](http://www.opengeospatial.org/standards/wcs) - A Web Coverage Service (WCS) offers multi-dimensional coverage data for access over the Internet. 
+  - [Web Feature Service](http://www.opengeospatial.org/standards/wfs) - WFS offers direct fine-grained access to geographic information at the feature and feature property level.
+  - [Web Map Service](http://www.opengeospatial.org/standards/wms) - The Web Map Service (WMS) provides a simple HTTP interface for requesting geo-registered map images from one or more distributed geospatial databases. 
+  - [Web Map Tile Service](http://www.opengeospatial.org/standards/wmts) - The Web map Tiled Service (WMTS) provides a simple HTTP interface for requesting pre-rendered tiles sets pyramids. 
+  - [Web Processing Service](http://www.opengeospatial.org/standards/wps) - The Web Processing Service (WPS) provides rules for standardizing how inputs and outputs (requests and responses) for geospatial processing services, such as polygon overlay.
 
 ## Awesome-Awesomeness
 | ▲ [Top](#awesome-gis) |
