@@ -56,6 +56,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 | --- |
 
 **Utilities**
+ - [emem](https://github.com/Vortx-AI/emem) - MCP server for signed, cite-able geospatial facts that AI agents can use to answer place-based questions.
  - [BBox finder](http://bboxfinder.com/) - Select an area and get BBox information in vairous projections and formats.
  - [epsg.io](http://epsg.io/) - Coordinate systems worldwide
  - [mapskin](http://mapsk.in/) - a collection of scalable vector icons for geospatial.
