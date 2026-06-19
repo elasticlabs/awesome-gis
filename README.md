@@ -60,6 +60,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
  - [epsg.io](http://epsg.io/) - Coordinate systems worldwide
  - [mapskin](http://mapsk.in/) - a collection of scalable vector icons for geospatial.
  - [GeoTrellis](https://github.com/locationtech/geotrellis) - A geographic data processing engine for high performance applications that uses Spark to work with raster data. 
+ - [NetLoc8](https://netloc8.com) - IP geolocation API with framework-native SDKs for Next.js, React, and Go.
 
 **Data download services**
   - [ASTER GDEM](https://gdemdl.aster.jspacesystems.or.jp/) or [From NASA](https://search.earthdata.nasa.gov/search/) - fantastic worldwide DEM jointly built in partnership between the NASA and Japan METI.
