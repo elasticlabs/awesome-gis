@@ -118,6 +118,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 
 **Cloud Services**
   - [Mapbox](https://www.mapbox.com/) :star2: - Helping you design your own map and presenting your data
+  - [Mapbase](https://mapbase.dev/) - Location registry API for official locations, custom zones, hierarchy, geometry, and SEO-ready location context.
   - [ArcGIS Online](https://developers.arcgis.com/) :star2: - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
   - [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
   - [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
