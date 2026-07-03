@@ -77,7 +77,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
   - [Open Street Map](https://www.openstreetmap.org/) - A map of the world, created by people like you and free to use under an open license.
   - [OpenFlights: Airport and airline data](http://openflights.org/data.html) - Awesome FOSS airports and airlines database.
   - [Open Weather Map](https://openweathermap.org/api/weathermaps) - OpenWeatherMap provides many kinds of weather maps including Precipitation, Clouds, Pressure, Temperature, Wind. You can connect them to mobile and web apps.
-  - [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) - The Overpass API (formerly known as OSM Server Side Scripting, or OSM3S before 2011) is a read-only API that serves up custom selected parts of the OSM map data. 
+  - [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) - The Overpass API (formerly known as OSM Server Side Scripting, or OSM3S before 2011) is a read-only API that serves up custom selected parts of the OSM map data.
   - [Remotepixel](https://search.remotepixel.ca/) - Free download of worldwide Landsat-8, Sentinel-2 and CBERS-4 tiles.
   - [Sentinel Hub](https://apps.sentinel-hub.com/eo-browser/) - A complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA’s archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place.
 
@@ -96,6 +96,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 **Commercial**
   - [ArcGIS Desktop](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/overview) :star2: - Extendable desktop suite to manage, visualize and analyze GIS data in 2D and 3D, including image processing. Includes ArcGIS Pro, ArcMap, ArcCatalog, and ArcGIS Online.
   - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) :star2: - An easy-to-use, robust, and genuinely affordable GIS application that combines a wide array of spatial data processing tools with access to an unparalleled variety of data formats.
+  - [Plantaube](https://Plantaube.com) – A free Webtool to create custom urban maps and site plans out of OSM-data. 
 
 ## Web Map Servers
 | ▲ [Top](#awesome-gis) |
